@@ -1,4 +1,4 @@
-# AI-for-Sustainability-SRIP-2026
+# AI-for-Sustainability
 This project implements a complete geospatial machine learning pipeline for land-use classification in the Delhi-NCR region. The workflow includes spatial filtering of satellite image patches, raster-based label construction using ESA WorldCover data, and supervised classification using a pretrained ResNet18 model.
 ---
 ## Q1 – Spatial Reasoning & Data Filtering
